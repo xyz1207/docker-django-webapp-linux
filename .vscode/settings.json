@@ -1,0 +1,6 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/5ee74d5b-b385-406f-97b7-2fab0a089d00/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/webapp-docker01",
+    "appService.deploySubpath": ".",
+    "python.pythonPath": "C:\\Users\\andreas.aurand\\.pyenv\\pyenv-win\\versions\\anaconda-2021.05\\envs\\DataScience\\python.exe"
+}
